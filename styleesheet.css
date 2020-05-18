@@ -1,0 +1,86 @@
+.top-wrapper p {
+  opacity: 0.7;
+  margin-bottom: 3px;
+}
+*{
+box-sizing:border-box;
+}
+
+body{
+ margin:0;
+ font-family:"Lucida Grande";
+}
+.container{
+background-image:url(https://media4.picsearch.com/is?Dqs0uHEAz3qEkk5409oWzf_fRf58s4ES4C8dXAV4z90&height=113);
+background-size:cover;
+color:white;
+text-align:center;
+padding:150px 0 60px 0;
+}
+.container h1 {
+  
+  font-size: 50px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+  color:white;
+}
+.container p{
+  font-size:20px;
+  
+  margin-bottom: 3px;
+}
+.container h2{
+ 
+ letter-spacing:5px;
+ font-size:40px;
+}
+.quiz-time{
+ 
+ padding:10px 20px;
+ color:black;
+text-align:center;
+} 
+.yes,.yesss,.no{
+ padding: 20px 20px;
+ margin: 20px 20px;
+ letter-spacing:5px;
+ font-size:20px;
+ tex-align:left;
+}
+
+.lesson {
+  float: left;
+  width: 25%;
+}
+
+.lesson-icon {
+  position: relative;
+}
+
+.lesson-icon p {
+  position: absolute;
+  top: 90px;
+  width: 100%;
+  color: white;
+}
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 15px;
+  color: #b3aeb5;
+}
+.importance ul{
+  font-size:50 px;
+  padding-top: 50px;
+ letter-spacing:5px;
+border-bottom:1px solid #333;
+}
+
+
+.heading h3 {
+  font-weight: normal;
+}
+.quiz-time span{
+color:red
+}
